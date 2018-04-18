@@ -1,0 +1,5 @@
+OpenWeatherMap
+b2eb88f0cb3608eefcd8f5e2c509ca6f
+
+EventBrite
+Personal OathToken: GYGTHAC7RBJWGYDRRMV7
