@@ -1,4 +1,4 @@
-# VanillaJavaScriptAssignments
+# Vanilla JavaScript Projects
 A repository of projects to learn Vanilla JavaScript.
 
 <b>Vanilla JS Binding and Propogation</b>
